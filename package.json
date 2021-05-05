@@ -1,5 +1,6 @@
 {
 	"name": "initializr",
+	"description": "A simple tool for initializing a new project with a given name.",
 	"scripts": {
 		"build": "yarn tsc",
 		"start": "yarn node dist/index.js"
