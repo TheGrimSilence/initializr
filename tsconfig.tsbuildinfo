@@ -1,0 +1,1221 @@
+{
+  "program": {
+    "fileInfos": {
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.d.ts": {
+        "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "signature": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "signature": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+        "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+        "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.string.d.ts": {
+        "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+        "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.intl.d.ts": {
+        "version": "e79ca55569f09a5dc3354be04dba4ae85865b1dce98bf46738ffe231c669621f",
+        "signature": "e79ca55569f09a5dc3354be04dba4ae85865b1dce98bf46738ffe231c669621f",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "506b80b9951c9381dc5f11897b31fca5e2a65731d96ddefa19687fbc26b23c6e",
+        "signature": "506b80b9951c9381dc5f11897b31fca5e2a65731d96ddefa19687fbc26b23c6e",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.string.d.ts": {
+        "version": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "signature": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.promise.d.ts": {
+        "version": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "signature": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.weakref.d.ts": {
+        "version": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "signature": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.full.d.ts": {
+        "version": "d96fa8a56871904776165ceb8e00bd56127e1a017bb2664cae76223b5f815141",
+        "signature": "d96fa8a56871904776165ceb8e00bd56127e1a017bb2664cae76223b5f815141",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts": {
+        "version": "95561af7e5ece0c6c5341b2faedd040efe12e50ef135c36053d4892d5ce89a68",
+        "signature": "95561af7e5ece0c6c5341b2faedd040efe12e50ef135c36053d4892d5ce89a68",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert/strict.d.ts": {
+        "version": "c7bdc99177a2a94d25fb13722adaaf5b3291bf70b4d1b27584ba189dd3889ba3",
+        "signature": "c7bdc99177a2a94d25fb13722adaaf5b3291bf70b4d1b27584ba189dd3889ba3",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.d.ts": {
+        "version": "5402314c88d0127f63f94a0272f79e04ea0fc010ff6da6613807504c4163a1ad",
+        "signature": "5402314c88d0127f63f94a0272f79e04ea0fc010ff6da6613807504c4163a1ad",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "c9e8a340da877b05a52525554aa255b3f44958c7f6748ebf5cbe0bfbe6766878",
+        "signature": "c9e8a340da877b05a52525554aa255b3f44958c7f6748ebf5cbe0bfbe6766878",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/buffer.d.ts": {
+        "version": "a473cf45c3d9809518f8af913312139d9f4db6887dc554e0d06d0f4e52722e6b",
+        "signature": "a473cf45c3d9809518f8af913312139d9f4db6887dc554e0d06d0f4e52722e6b",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts": {
+        "version": "a668dfae917097b30fc29bbebeeb869cee22529f2aa9976cea03c7e834a1b841",
+        "signature": "a668dfae917097b30fc29bbebeeb869cee22529f2aa9976cea03c7e834a1b841",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/cluster.d.ts": {
+        "version": "04eaa93bd75f937f9184dcb95a7983800c5770cf8ddd8ac0f3734dc02f5b20ef",
+        "signature": "04eaa93bd75f937f9184dcb95a7983800c5770cf8ddd8ac0f3734dc02f5b20ef",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/console.d.ts": {
+        "version": "c8155caf28fc7b0a564156a5df28ad8a844a3bd32d331d148d8f3ce88025c870",
+        "signature": "c8155caf28fc7b0a564156a5df28ad8a844a3bd32d331d148d8f3ce88025c870",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/constants.d.ts": {
+        "version": "45ac321f2e15d268fd74a90ddaa6467dcaaff2c5b13f95b4b85831520fb7a491",
+        "signature": "45ac321f2e15d268fd74a90ddaa6467dcaaff2c5b13f95b4b85831520fb7a491",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts": {
+        "version": "51a77d65fbadc93dcdf454ea1d94bd9f1f146008d890bea4f168dd397192b9fb",
+        "signature": "51a77d65fbadc93dcdf454ea1d94bd9f1f146008d890bea4f168dd397192b9fb",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dgram.d.ts": {
+        "version": "797a9d37eb1f76143311c3f0a186ce5c0d8735e94c0ca08ff8712a876c9b4f9e",
+        "signature": "797a9d37eb1f76143311c3f0a186ce5c0d8735e94c0ca08ff8712a876c9b4f9e",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts": {
+        "version": "ec7dafafe751a5121f8f1c80201ebe7e7238c47e6329280a73c4d1ca4bb7fa28",
+        "signature": "ec7dafafe751a5121f8f1c80201ebe7e7238c47e6329280a73c4d1ca4bb7fa28",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts": {
+        "version": "64debeb10e4b7ae4ec9e89bfb4e04c6101ab98c3cc806d14e5488607cfec2753",
+        "signature": "64debeb10e4b7ae4ec9e89bfb4e04c6101ab98c3cc806d14e5488607cfec2753",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/domain.d.ts": {
+        "version": "2866a528b2708aa272ec3eaafd3c980abb23aec1ef831cfc5eb2186b98c37ce5",
+        "signature": "2866a528b2708aa272ec3eaafd3c980abb23aec1ef831cfc5eb2186b98c37ce5",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts": {
+        "version": "36ba0e764ace4fb55e6165c5f33f2826f88b1d3767f7ec658fe2f6c85ac5e776",
+        "signature": "36ba0e764ace4fb55e6165c5f33f2826f88b1d3767f7ec658fe2f6c85ac5e776",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts": {
+        "version": "d3315298050252531e7db9046296ca2162fa5218a85b10a62ed79140e3822e3c",
+        "signature": "d3315298050252531e7db9046296ca2162fa5218a85b10a62ed79140e3822e3c",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts": {
+        "version": "bdaf554ae2d9d09e2a42f58a29ef7f80e5b5c1d7b96bfb717243dc91a477216e",
+        "signature": "bdaf554ae2d9d09e2a42f58a29ef7f80e5b5c1d7b96bfb717243dc91a477216e",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts": {
+        "version": "bd311ff12ac011f5531edd217189606e7a697376d6109e8a18361358f6249b46",
+        "signature": "bd311ff12ac011f5531edd217189606e7a697376d6109e8a18361358f6249b46",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http2.d.ts": {
+        "version": "a870e564e578dccc7b34018d6919f9466bae462b4bafc3449ca63a2331ac27c5",
+        "signature": "a870e564e578dccc7b34018d6919f9466bae462b4bafc3449ca63a2331ac27c5",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/https.d.ts": {
+        "version": "13257840c0850d4ebd7c2b17604a9e006f752de76c2400ebc752bc465c330452",
+        "signature": "13257840c0850d4ebd7c2b17604a9e006f752de76c2400ebc752bc465c330452",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/inspector.d.ts": {
+        "version": "42176966283d3835c34278b9b5c0f470d484c0c0c6a55c20a2c916a1ce69b6e8",
+        "signature": "42176966283d3835c34278b9b5c0f470d484c0c0c6a55c20a2c916a1ce69b6e8",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/module.d.ts": {
+        "version": "0cff7901aedfe78e314f7d44088f07e2afa1b6e4f0473a4169b8456ca2fb245d",
+        "signature": "0cff7901aedfe78e314f7d44088f07e2afa1b6e4f0473a4169b8456ca2fb245d",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts": {
+        "version": "1eaf8fecdae37cc4c85f496d2bdb9e8d46c21b3643b7e27d3646a330585515a5",
+        "signature": "1eaf8fecdae37cc4c85f496d2bdb9e8d46c21b3643b7e27d3646a330585515a5",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/os.d.ts": {
+        "version": "69640cc2e76dad52daeb9914e6b70c5c9a5591a3a65190a2d3ea432cf0015e16",
+        "signature": "69640cc2e76dad52daeb9914e6b70c5c9a5591a3a65190a2d3ea432cf0015e16",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/path.d.ts": {
+        "version": "21e64a125f65dff99cc3ed366c96e922b90daed343eb52ecdace5f220401dcda",
+        "signature": "21e64a125f65dff99cc3ed366c96e922b90daed343eb52ecdace5f220401dcda",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "signature": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/process.d.ts": {
+        "version": "61977e8f4c042abd392645828c90afd1b551a6fd32c51b93717c68003ce7c983",
+        "signature": "61977e8f4c042abd392645828c90afd1b551a6fd32c51b93717c68003ce7c983",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/punycode.d.ts": {
+        "version": "7f77304372efe3c9967e5f9ea2061f1b4bf41dc3cda3c83cdd676f2e5af6b7e6",
+        "signature": "7f77304372efe3c9967e5f9ea2061f1b4bf41dc3cda3c83cdd676f2e5af6b7e6",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/querystring.d.ts": {
+        "version": "992c6f6be16c0a1d2eec13ece33adeea2c747ba27fcd078353a8f4bb5b4fea58",
+        "signature": "992c6f6be16c0a1d2eec13ece33adeea2c747ba27fcd078353a8f4bb5b4fea58",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts": {
+        "version": "3b790d08129aca55fd5ae1672d1d26594147ac0d5f2eedc30c7575eb18daef7e",
+        "signature": "3b790d08129aca55fd5ae1672d1d26594147ac0d5f2eedc30c7575eb18daef7e",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/repl.d.ts": {
+        "version": "64535caf208a02420d2d04eb2029269efedd11eb8597ada0d5e6f3d54ec663ae",
+        "signature": "64535caf208a02420d2d04eb2029269efedd11eb8597ada0d5e6f3d54ec663ae",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts": {
+        "version": "3b02b1e3c3a6730d79e2c8652f3be6a7caef1a604b9c5103abbbcea921694be1",
+        "signature": "3b02b1e3c3a6730d79e2c8652f3be6a7caef1a604b9c5103abbbcea921694be1",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts": {
+        "version": "fd2298fba0640e7295e7bd545e2dfbfcccbb00c27019e501c87965a02bbdebf6",
+        "signature": "fd2298fba0640e7295e7bd545e2dfbfcccbb00c27019e501c87965a02bbdebf6",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "4fd3c4debadce3e9ab9dec3eb45f7f5e2e3d4ad65cf975a6d938d883cfb25a50",
+        "signature": "4fd3c4debadce3e9ab9dec3eb45f7f5e2e3d4ad65cf975a6d938d883cfb25a50",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers.d.ts": {
+        "version": "f49709e8c096b05aca0674d39f471aa05261de7c756df9abdf4a53ed0fa98901",
+        "signature": "f49709e8c096b05aca0674d39f471aa05261de7c756df9abdf4a53ed0fa98901",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers/promises.d.ts": {
+        "version": "baca27d1de400e027cdc70217ca73e414002baef5798aa24a921097c20066fa1",
+        "signature": "baca27d1de400e027cdc70217ca73e414002baef5798aa24a921097c20066fa1",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts": {
+        "version": "f89a6d56f0267f6e73c707f8a89d2f38e9928e10bfa505f39a4f4bf954093aee",
+        "signature": "f89a6d56f0267f6e73c707f8a89d2f38e9928e10bfa505f39a4f4bf954093aee",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/trace_events.d.ts": {
+        "version": "7df562288f949945cf69c21cd912100c2afedeeb7cdb219085f7f4b46cb7dde4",
+        "signature": "7df562288f949945cf69c21cd912100c2afedeeb7cdb219085f7f4b46cb7dde4",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts": {
+        "version": "9d16690485ff1eb4f6fc57aebe237728fd8e03130c460919da3a35f4d9bd97f5",
+        "signature": "9d16690485ff1eb4f6fc57aebe237728fd8e03130c460919da3a35f4d9bd97f5",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts": {
+        "version": "dcc6910d95a3625fd2b0487fda055988e46ab46c357a1b3618c27b4a8dd739c9",
+        "signature": "dcc6910d95a3625fd2b0487fda055988e46ab46c357a1b3618c27b4a8dd739c9",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts": {
+        "version": "e649840284bab8c4d09cadc125cd7fbde7529690cc1a0881872b6a9cd202819b",
+        "signature": "e649840284bab8c4d09cadc125cd7fbde7529690cc1a0881872b6a9cd202819b",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/v8.d.ts": {
+        "version": "a364b4a8a015ae377052fa4fac94204d79a69d879567f444c7ceff1b7a18482d",
+        "signature": "a364b4a8a015ae377052fa4fac94204d79a69d879567f444c7ceff1b7a18482d",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts": {
+        "version": "1aa7dbace2b7b2ef60897dcd4f66252ee6ba85e594ded8918c9acdcecda1896c",
+        "signature": "1aa7dbace2b7b2ef60897dcd4f66252ee6ba85e594ded8918c9acdcecda1896c",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "1535aeef6e803bc8c784b14c99bd214dba9223df4914f3dee616af351ab46042",
+        "signature": "1535aeef6e803bc8c784b14c99bd214dba9223df4914f3dee616af351ab46042",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/zlib.d.ts": {
+        "version": "4926467de88a92a4fc9971d8c6f21b91eca1c0e7fc2a46cc4638ab9440c73875",
+        "signature": "4926467de88a92a4fc9971d8c6f21b91eca1c0e7fc2a46cc4638ab9440c73875",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.global.d.ts": {
+        "version": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "signature": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "affectsGlobalScope": true
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/wasi.d.ts": {
+        "version": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "signature": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/ts3.6/base.d.ts": {
+        "version": "210ef68f34baca2a4499c07a51f05d51b4f0ef01d64efea3017cb3bc31c37e33",
+        "signature": "210ef68f34baca2a4499c07a51f05d51b4f0ef01d64efea3017cb3bc31c37e33",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert.d.ts": {
+        "version": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "signature": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/base.d.ts": {
+        "version": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "signature": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/index.d.ts": {
+        "version": "6c9c7e459e013ddf52c70b90f88bbdd925e483ef984d80f9bffb501029974e82",
+        "signature": "6c9c7e459e013ddf52c70b90f88bbdd925e483ef984d80f9bffb501029974e82",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts": {
+        "version": "2bd69cb0982f653621c4587eff9386fd72f4585175a7ab59c2fe7e8748f51fb8",
+        "signature": "2bd69cb0982f653621c4587eff9386fd72f4585175a7ab59c2fe7e8748f51fb8",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/core.d.ts": {
+        "version": "38c8c840615efcc073d5c393972c3a01349ec6276639d7786f3aff738a95d13c",
+        "signature": "38c8c840615efcc073d5c393972c3a01349ec6276639d7786f3aff738a95d13c",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/errors.d.ts": {
+        "version": "df0e93ded7e580b27eb3bfea87dffc49a823ea74ef6c625938cb8f5298e1bd57",
+        "signature": "df0e93ded7e580b27eb3bfea87dffc49a823ea74ef6c625938cb8f5298e1bd57",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts": {
+        "version": "6cb06a3eba8e5c9d27ffa7227ec18a0453b6b7e7697fa36906e989f3e189aa87",
+        "signature": "6cb06a3eba8e5c9d27ffa7227ec18a0453b6b7e7697fa36906e989f3e189aa87",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts": {
+        "version": "07d3de563fa69922b0a0368f490fab6ae599e75cab7141fdec69c60fa209e692",
+        "signature": "07d3de563fa69922b0a0368f490fab6ae599e75cab7141fdec69c60fa209e692",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/definitions.d.ts": {
+        "version": "5c4c102458b036448f78a42da415ced2929870b0ab11bf457c7eced7265499e5",
+        "signature": "5c4c102458b036448f78a42da415ced2929870b0ab11bf457c7eced7265499e5",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/help.d.ts": {
+        "version": "dcd687115f7836cab01c44b1a3678422533adb6e8e255d046850a9b998ca953d",
+        "signature": "dcd687115f7836cab01c44b1a3678422533adb6e8e255d046850a9b998ca953d",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/version.d.ts": {
+        "version": "95046f08a9e3860e531bae878947f04cf91aade9ca8dae60f962aff85b892eeb",
+        "signature": "95046f08a9e3860e531bae878947f04cf91aade9ca8dae60f962aff85b892eeb",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/index.d.ts": {
+        "version": "7ea8ac0a5b4461e346fe937ff19841c66bcf3121205de8d1b2a5d0a31f3b28eb",
+        "signature": "7ea8ac0a5b4461e346fe937ff19841c66bcf3121205de8d1b2a5d0a31f3b28eb",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Array.d.ts": {
+        "version": "b35737c98c92485c073f29712df77f6d2193dca7954166c4165c4fb59de67fc4",
+        "signature": "b35737c98c92485c073f29712df77f6d2193dca7954166c4165c4fb59de67fc4",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Boolean.d.ts": {
+        "version": "5af4f0c77e82183dc512690283cc80a2b59370083a60ed75174a516b921452fc",
+        "signature": "5af4f0c77e82183dc512690283cc80a2b59370083a60ed75174a516b921452fc",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Counter.d.ts": {
+        "version": "5581450c9bfffa56208fa69ce62ea33c8671fa34cfdc1eeb262ec7ebf0b5cbf7",
+        "signature": "5581450c9bfffa56208fa69ce62ea33c8671fa34cfdc1eeb262ec7ebf0b5cbf7",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Proxy.d.ts": {
+        "version": "977997bf4efd7fc8d5b4a78f9474395315189d8d9d92a8280cb35babe0885534",
+        "signature": "977997bf4efd7fc8d5b4a78f9474395315189d8d9d92a8280cb35babe0885534",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Rest.d.ts": {
+        "version": "dc9f4778bd2d16df16c101704eee59112818857cf58ecb59417633abca828ff0",
+        "signature": "dc9f4778bd2d16df16c101704eee59112818857cf58ecb59417633abca828ff0",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/String.d.ts": {
+        "version": "61366d7ab46fde11c4e11f8fbf2430697c26419529a6ec36688bd4b58ebeb471",
+        "signature": "61366d7ab46fde11c4e11f8fbf2430697c26419529a6ec36688bd4b58ebeb471",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/index.d.ts": {
+        "version": "fb4113fc41b555bb1aa01fb17c66da9be37b734c5b4c4e244f70d7ecb0b7e5c0",
+        "signature": "fb4113fc41b555bb1aa01fb17c66da9be37b734c5b4c4e244f70d7ecb0b7e5c0",
+        "affectsGlobalScope": false
+      },
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts": {
+        "version": "82ae87c41ac0acc54a8d9cc3a7addcf12bb4af61f6593b0f16d213492b21d9a9",
+        "signature": "82ae87c41ac0acc54a8d9cc3a7addcf12bb4af61f6593b0f16d213492b21d9a9",
+        "affectsGlobalScope": false
+      },
+      "./src/InitCommand.ts": {
+        "version": "be0f2b08086f2fd80885301367e80c202ca5cac5f43cf092cd3398b1a212b4ed",
+        "signature": "86711315c99918e3e4a69505825944c2cffbf1f7cddbf0dbe9e6e2480585697a",
+        "affectsGlobalScope": false
+      },
+      "./src/index.ts": {
+        "version": "0e009db6fe53eeb488645e4201c4bae984563b6d859cec86bdde5b4add38b2f5",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 99,
+      "module": 1,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "composite": true,
+      "strict": true,
+      "moduleResolution": 2,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/index.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts",
+        "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/definitions.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/help.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/index.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/definitions.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/help.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/version.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/version.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/index.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/index.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/errors.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Array.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Boolean.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Counter.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/String.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts",
+        "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/index.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Array.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Boolean.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Counter.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Proxy.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Rest.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/String.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/core.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/errors.d.ts",
+        "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert/strict.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/base.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/cluster.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/console.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/constants.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/os.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dgram.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/domain.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http2.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/https.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/index.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/base.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/inspector.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/module.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/perf_hooks.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/process.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/repl.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/ts3.6/base.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert/strict.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/async_hooks.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/buffer.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/cluster.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/console.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/constants.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dgram.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/domain.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.global.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http2.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/https.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/inspector.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/module.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/os.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/path.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/perf_hooks.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/process.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/punycode.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/querystring.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/repl.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/string_decoder.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/trace_events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/v8.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/wasi.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/worker_threads.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/zlib.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/querystring.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/v8.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/worker_threads.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/zlib.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./src/InitCommand.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts"
+      ],
+      "./src/index.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts",
+        "./src/InitCommand.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/index.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts",
+        "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/definitions.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/help.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/index.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/definitions.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/help.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/version.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/version.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/index.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/index.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/errors.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Array.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Boolean.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Counter.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/String.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts",
+        "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/index.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Array.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Boolean.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Counter.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Proxy.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Rest.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/String.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts"
+      ],
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/core.d.ts",
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/errors.d.ts",
+        "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert/strict.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/base.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/cluster.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/console.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/constants.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/os.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dgram.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/domain.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http2.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/https.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/index.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/base.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/inspector.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/module.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/perf_hooks.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/process.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/repl.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers/promises.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/ts3.6/base.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert/strict.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/async_hooks.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/buffer.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/cluster.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/console.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/constants.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dgram.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/domain.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.global.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http2.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/https.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/inspector.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/module.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/os.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/path.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/perf_hooks.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/process.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/punycode.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/querystring.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/repl.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/string_decoder.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/trace_events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/v8.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/wasi.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/worker_threads.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/zlib.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/querystring.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/v8.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/worker_threads.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts",
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts"
+      ],
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/zlib.d.ts": [
+        "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts"
+      ],
+      "./src/InitCommand.ts": [
+        "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Cli.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/Command.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/definitions.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/help.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/index.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/builtins/version.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/index.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Array.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Boolean.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Counter.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Proxy.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/Rest.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/String.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/index.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/advanced/options/utils.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/core.d.ts",
+      "./.yarn/$$virtual/clipanion-virtual-ead791c549/0/cache/clipanion-npm-3.0.0-rc.12-95ffbe8b7e-b221278f7a.zip/node_modules/clipanion/lib/errors.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/assert/strict.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/async_hooks.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/base.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/buffer.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/child_process.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/cluster.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/console.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/constants.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/crypto.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dgram.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/dns/promises.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/domain.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/events.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/fs/promises.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/globals.global.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/http2.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/https.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/index.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/inspector.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/module.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/net.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/os.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/path.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/perf_hooks.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/process.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/punycode.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/querystring.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/readline.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/repl.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/stream/promises.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/string_decoder.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/timers/promises.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tls.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/trace_events.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/ts3.6/base.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/tty.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/url.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/util.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/v8.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/vm.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/wasi.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/worker_threads.d.ts",
+      "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/zlib.d.ts",
+      "./.yarn/cache/typanion-npm-3.3.1-ee9997c7cf-4341c4199f.zip/node_modules/typanion/lib/index.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.dom.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2016.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.intl.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.es5.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.full.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.promise.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.string.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.esnext.weakref.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./.yarn/cache/typescript-patch-70a7929abf-3be4431759.zip/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "./src/InitCommand.ts",
+      "./src/index.ts"
+    ]
+  },
+  "version": "4.2.4"
+}
