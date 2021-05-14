@@ -92,10 +92,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:15.0.2":
+"@types/node@npm:*":
   version: 15.0.2
   resolution: "@types/node@npm:15.0.2"
   checksum: ea8dd741bf16ad3318cca505783b7c211a5c8bea49202f99ba88d2ce8a804e994e1fd1b575b994e434e8b8ead810da966d588ea112998f8fe8d95cd74c396f8a
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:15.3.0":
+  version: 15.3.0
+  resolution: "@types/node@npm:15.3.0"
+  checksum: 44039665ab71a6ec12e6637a9db4ec3123fdfaf52952ca8028a6f1b37c41c2d380e88d28a41e02693bf9d4815307e0ad938815bf8ffedc5f4d045855fa28db06
   languageName: node
   linkType: hard
 
@@ -727,7 +734,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "initializr@workspace:."
   dependencies:
-    "@types/node": 15.0.2
+    "@types/node": 15.3.0
     "@yarnpkg/pnpify": 3.0.0-rc.3
     cli-step: 1.0.2
     clipanion: 3.0.0-rc.12

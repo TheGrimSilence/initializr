@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/node", "npm:15.0.2"],
+            ["@types/node", "npm:15.3.0"],
             ["@yarnpkg/pnpify", "virtual:9b674d1986f6bfedb573cb12e12ba558e58d7f0b7a445eda273c8fd847fba1a3b747fa429eb90c8512873fb46fba7eea64fc19c9ea7ae4b1cf6ba432b45814f8#npm:3.0.0-rc.3"],
             ["cli-step", "npm:1.0.2"],
             ["clipanion", "virtual:9b674d1986f6bfedb573cb12e12ba558e58d7f0b7a445eda273c8fd847fba1a3b747fa429eb90c8512873fb46fba7eea64fc19c9ea7ae4b1cf6ba432b45814f8#npm:3.0.0-rc.12"],
@@ -159,6 +159,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-node-npm-15.0.2-433fc3c944-ea8dd741bf.zip/node_modules/@types/node/",
           "packageDependencies": [
             ["@types/node", "npm:15.0.2"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:15.3.0", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-15.3.0-7ebc66d6bc-44039665ab.zip/node_modules/@types/node/",
+          "packageDependencies": [
+            ["@types/node", "npm:15.3.0"]
           ],
           "linkType": "HARD",
         }]
@@ -878,7 +885,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["initializr", "workspace:."],
-            ["@types/node", "npm:15.0.2"],
+            ["@types/node", "npm:15.3.0"],
             ["@yarnpkg/pnpify", "virtual:9b674d1986f6bfedb573cb12e12ba558e58d7f0b7a445eda273c8fd847fba1a3b747fa429eb90c8512873fb46fba7eea64fc19c9ea7ae4b1cf6ba432b45814f8#npm:3.0.0-rc.3"],
             ["cli-step", "npm:1.0.2"],
             ["clipanion", "virtual:9b674d1986f6bfedb573cb12e12ba558e58d7f0b7a445eda273c8fd847fba1a3b747fa429eb90c8512873fb46fba7eea64fc19c9ea7ae4b1cf6ba432b45814f8#npm:3.0.0-rc.12"],
