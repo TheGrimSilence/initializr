@@ -12,6 +12,6 @@
 	},
 	"dependencies": {
 		"cli-step": "1.0.2",
-		"clipanion": "3.0.0-rc.12"
+		"clipanion": "3.1.0"
 	}
 }
